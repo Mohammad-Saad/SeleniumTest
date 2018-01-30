@@ -1,0 +1,15 @@
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+c:\users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\appium-dotnet-driver.dll
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Castle.Core.dll
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\appium-dotnet-driver.xml
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Castle.Core.xml
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mosaad\documents\visual studio 2015\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
